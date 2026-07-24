@@ -19,7 +19,7 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashish-pal-code/">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACQUlEQVR4nO2av2sUQRzFP/4Egyamy48ilWhhKkXQ3uokVomthU36aMBCBMVGsdG/wFbEThBMEIMQTGGqICIWioISJCaiETUrX3kLy5Kdm93s5WZxHizcvXk3897t/Nqbg4iIiKo4A8wA34Cky9eavLTKhrgegPmk4LpW5k7YB9aBKWCQ7mMQuChPie+dmZXYQoSGS/Jm3awt1iQeIDwMyNuqjzjti6Ei8fX3XwQ5CTwCPgEfgYfA0Xp9dj6IzWa/N5kOfwDHaFCQRfG2xhwE9mtON+5J/X47F+Sr+J4M1yvOyhoT5Kn4G0CfQlwVN1+/384FsXHwfZMxYqvtcRo2ax0C7gHvgA9NnbVCQbLVIM8dO9I5T80e4BzwAHivbrmiGfEWcGQ7grTbXvtoXrUp/wXcBnZvRxAX7/MlLAEXgBFgL3AAOAXcBX5KY2NvZ4hBbPXfAK44DBpOAJ9Vx3RJf5UMF/FFmnFgIvN+l6P906pjReuVr49Khot4VyO2rbkDLEtjm86b6lp5PJZmMrQgtq15mSn/k3m9AOzL6c+r7H5oQS6Lfw2Malay8fBWvD3CZnFY/JvQgiyIH8vxZ8W/yPF9mXESVJAv4vtzfL94K89ih/iN0IK4Gt9Ke07EIMQgxCAuxCDEIMQgLrSroOjy1VSpt9Ygc47GnpXQVKm31iChIPH1typhCEdueQyX+Yl2RmI7swsN02WO3loSr+uBZ4juY0gh0l9ZvI+p0+OCRh9Pp2jpFqaHo438w0BERAT/8BflE3u12wJrWAAAAABJRU5ErkJggg==" alt="linkedin">
+   <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
   <a href="mailto:ashishpal23102000@gmail.com">
@@ -27,11 +27,11 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
   </a>
 
  <a href="https://ashishpalcode.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html" />
 </a>
 
   <a href="https://github.com/ashishpalcoder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+   <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
