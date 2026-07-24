@@ -23,11 +23,11 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
   </a>
 
   <a href="mailto:ashishpal23102000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
   <a href="https://ashishpalcode.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
 
   <a href="https://github.com/ashishpalcoder">
