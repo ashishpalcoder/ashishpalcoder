@@ -29,7 +29,7 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
 
 
 
-## About Me
+# About Me
 
 
 
