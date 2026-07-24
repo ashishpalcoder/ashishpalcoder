@@ -43,7 +43,7 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
 # 👨‍💻 About Me
 
 
-<summary><b>Know More About Me</b></summary>
+
 
 <br>
 
@@ -85,7 +85,6 @@ I enjoy converting raw datasets into dashboards that help people make better dec
 # 🛠️ Tech Stack
 
 
-<summary><b>View Tech Stack</b></summary>
 
 <br>
 
@@ -161,7 +160,6 @@ Beacon Institute of Technology
 
 # 📜 Certifications
 
-<summary><b>View Certifications</b></summary>
 
 <br>
 
