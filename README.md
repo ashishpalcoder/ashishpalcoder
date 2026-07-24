@@ -19,7 +19,7 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashish-pal-code/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
   <a href="mailto:ashishpal23102000@gmail.com">
