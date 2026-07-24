@@ -1,15 +1,41 @@
 <h1 align="center">Hi 👋, I'm Ashish Pal</h1>
 
-<h3 align="center">Data Analyst • Python • SQL • Power BI • Excel • Snowflake</h3>
+<h3 align="center">
+Data Analyst • Python • SQL • Power BI • Excel • Snowflake
+</h3>
 
 <p align="center">
-Building data-driven solutions that transform raw data into meaningful business insights.
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+Into+Business+Insights;Building+Interactive+Power+BI+Dashboards;SQL+%7C+Python+%7C+Excel+%7C+Snowflake;Data+Storytelling+Through+Visualization;Aspiring+Data+Analyst+%7C+Open+to+Internships"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishpalcoder&label=Profile%20Views&color=0e75b6&style=flat" alt="ashishpalcoder" />
+  <img src="https://komarev.com/ghpvc/?username=ashishpalcoder&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashish-pal-code/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:ashishpal23102000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://ashishpalcode.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ashishpalcoder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-pal-code/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
