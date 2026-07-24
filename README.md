@@ -29,7 +29,7 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
 
 
 
-# 👨‍💻 About Me
+## About Me
 
 
 
@@ -83,7 +83,7 @@ I enjoy converting raw datasets into dashboards that help people make better dec
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
----
+
 
 ### 📊 Data Analysis
 
@@ -94,20 +94,20 @@ I enjoy converting raw datasets into dashboards that help people make better dec
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
----
+
 
 ### 📈 Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
----
+
 
 ### 🗄️ Database & Warehousing
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
 
----
+
 
 ### ⚙️ Tools
 
