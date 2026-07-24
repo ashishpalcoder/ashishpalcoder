@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Pal</h1>
+<h1 align="center">Hi, I'm Ashish Pal</h1>
 
 <h3 align="center">
 Data Analyst • Python • SQL • Power BI • Excel • Snowflake
@@ -38,7 +38,7 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
 ---
 
 
----
+
 
 # 👨‍💻 About Me
 
@@ -130,35 +130,7 @@ I enjoy converting raw datasets into dashboards that help people make better dec
 
 </details>
 
----
 
-# 💼 Experience
-
-<details>
-<summary><b>Professional Experience</b></summary>
-
-<br>
-
-## 📊 Data Analyst Intern
-
-**360 PropGuide | Noida**
-
-* Developed interactive Power BI dashboards for business reporting.
-* Automated repetitive reporting tasks using Python.
-* Worked with large datasets to generate business insights.
-* Collaborated with cross-functional teams to improve reporting workflows.
-
----
-
-## 💻 Web Developer Intern
-
-**Navix Consultancy Service | Noida**
-
-* Built responsive web applications.
-* Improved accessibility and UI performance.
-* Worked on multiple client-facing web projects.
-
-</details>
 
 ---
 
