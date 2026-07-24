@@ -18,15 +18,15 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashish-pal-code/">
+  <a href="https://www.linkedin.com/in/ashish-pal-code/" style="text-decoration: none">
    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:heyashishpal@gmail.com">
+  <a href="mailto:heyashishpal@gmail.com" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
- <a href="https://ashishpalcode.netlify.app">
+ <a href="https://ashishpalcode.netlify.app" style="text-decoration: none">
   <img src="https://skillicons.dev/icons?i=html" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
