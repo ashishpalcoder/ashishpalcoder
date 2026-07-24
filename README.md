@@ -42,7 +42,7 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
 
 # 👨‍💻 About Me
 
-<details open>
+
 <summary><b>Know More About Me</b></summary>
 
 <br>
@@ -78,13 +78,13 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
 
 I enjoy converting raw datasets into dashboards that help people make better decisions.
 
-</details>
+
 
 ---
 
 # 🛠️ Tech Stack
 
-<details open>
+
 <summary><b>View Tech Stack</b></summary>
 
 <br>
@@ -128,7 +128,7 @@ I enjoy converting raw datasets into dashboards that help people make better dec
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
-</details>
+
 
 
 
@@ -161,7 +161,6 @@ Beacon Institute of Technology
 
 # 📜 Certifications
 
-<details>
 <summary><b>View Certifications</b></summary>
 
 <br>
@@ -172,7 +171,7 @@ Beacon Institute of Technology
 
 🏅 Tata — GenAI Powered Data Analytics Job Simulation (Forage)
 
-</details>
+
 
 ---
 
