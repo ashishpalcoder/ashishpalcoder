@@ -26,9 +26,9 @@ Data Analyst • Python • SQL • Power BI • Excel • Snowflake
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://ashishpalcode.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=icloud&logoColor=white" />
-  </a>
+ <a href="https://ashishpalcode.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
 
   <a href="https://github.com/ashishpalcoder">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
